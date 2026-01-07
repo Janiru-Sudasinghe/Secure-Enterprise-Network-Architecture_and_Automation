@@ -238,7 +238,7 @@ Secure-Enterprise-Network-Architecture/
 │   └── automated_backup.sh    
 │
 ├── configs/                   # Folder for configuration files
-│   └── nginx_loadbalancer.conf  
+│   └── nginx.conf  
 │
 ├── docs/                      # Folder for all your evidence screenshots
 │   ├── 01_vmware_network.png
