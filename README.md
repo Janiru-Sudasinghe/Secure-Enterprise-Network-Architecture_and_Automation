@@ -173,7 +173,7 @@ for i in {1..10}; do curl [http://10.0.0.10](http://10.0.0.10); echo; done
 ```
 
 * **Verification:**
-   * **Evidence 1:** [📸 Round-Robin Response Test](docs/13.png)
+   * **Evidence 1:** [📸 Round-Robin Response Test](docs/14.png)
 ---
 
 ## 🔄 3. Automated Backup & Disaster Recovery (Bash & Cron)
