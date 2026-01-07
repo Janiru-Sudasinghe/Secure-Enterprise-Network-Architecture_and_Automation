@@ -222,7 +222,7 @@ This repository is organized by service role. Click the file names below to view
 
 | Component | File Name | Description |
 | :--- | :--- | :--- |
-| **Load Balancer** | [**nginx.conf**](configs/nginx_loadbalancer.conf) | Nginx configuration defining the `upstream` block and Weighted Round-Robin logic (50/30/20 split). |
+| **Load Balancer** | [**nginx.conf**](configs/nginx.conf) | Nginx configuration defining the `upstream` block and Weighted Round-Robin logic (50/30/20 split). |
 | **Automation** | [**automated_backup.sh**](scripts/automated_backup.sh) | Bash script executing incremental `rsync` transfers with directory rotation and 7-day retention policy. |
 
 ---
