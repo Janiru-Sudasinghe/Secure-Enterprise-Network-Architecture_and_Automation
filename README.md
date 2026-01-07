@@ -38,7 +38,8 @@ The architecture consists of **7 Virtual Machines** operating across **4 distinc
 The following diagram illustrates the logical traffic flow and segmentation enforced by the pfSense firewall.
 
 <p align="center">
-  <img src="./evidence/Diagram.png" width="600" alt="Network Topology Diagram">
+  <br>
+  <img src="./docs/diagram.jpeg" width="600" alt="Network Topology Diagram">
 </p>
 
 ---
