@@ -69,7 +69,7 @@ The firewall interfaces were assigned static IPv4 addresses to act as the defaul
 | **OPT2** | `le3` | `DMZ` | `172.16.0.0/24` | **Perimeter:** Isolated zone for exposed services. |
 
 * **Verification:**
-   * **Evidence 1:** [📸 pfSense Console Interface Assignment](docs/3.jpg)
+   * **Evidence 1:** [📸 pfSense Console Interface Assignment](docs/3.png)
    * **Evidence 2:** [📸 pfSense Dashboard Status](docs/4.png)
 
 ## 1.3 Stateful Firewall Rules (ACLs)
